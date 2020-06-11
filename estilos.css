@@ -1,0 +1,71 @@
+body{font-family:Arial, Helvetica, sans-serif;
+        line-height: 120%;
+        font-size:16px;
+        margin:0;
+        }
+header{text-align: center;
+        font-weight: 900;
+}
+input{font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: medium;
+}
+textarea{font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: medium;
+}
+button{background: red;
+        color:white;
+        border:0;
+}
+.menu li{ display: inline-block;
+        font-family:Arial, Helvetica, sans-serif;
+        font-size:20px;
+        margin-left: auto;
+        margin-right: 15px;
+        font-weight: 600;
+        background: grey;
+        }
+.menu li a{color: white;
+        text-decoration: none;
+        }
+body {font-family: 'Roboto', sans-serif;
+        background: rgb(245, 239, 239);
+        text-align: center;
+}
+footer{font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size:16px;
+}
+.audio{display:block;
+        background: lightgray;
+        width: 96%;
+        margin-left: 1%;
+        padding:10PX;
+        border:3PX #333333 solid;
+}
+article{
+        display: inline-block;
+        width: 46%;
+        margin-left:1%;
+        padding:10PX;
+        border:3PX #333333 solid;
+        justify-content: center;
+        text-align: left;
+        }
+.articulo-pizza{background: lightsteelblue;
+                }
+.articulo-empanadas{
+                background:lightblue;
+                }
+.articulo-tiramisu {
+                background: lightsteelblue;
+                }
+.articulo-cheesecake{
+                background: lightblue;
+                }
+form {display: block;
+        background: lightgrey;
+        margin: 1%;
+        padding:10PX;
+        border:3PX #333333 solid;
+        width: 96%;
+        }
+
